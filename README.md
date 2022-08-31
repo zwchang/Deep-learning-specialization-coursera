@@ -17,7 +17,7 @@ Here I gradually upload the lecture slides and my solution to the assignments of
 * Week 2 - 2 - [Logistic Regression with a Neural Network mindset](/Neural-Networks-and-Deep-Learning/notebooks/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 * Week 3 - 3 - [Planar data classification with one hidden layer](/Neural-Networks-and-Deep-Learning/notebooks/Planar_data_classification_with_one_hidden_layer.ipynb)
 * Week 4 - 4 - [Building your Deep Neural Network: Step by Step](/Neural-Networks-and-Deep-Learning/notebooks/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
-* Week 4 - 5 - [Deep Neural Network for Image Classification: Application](/Neural-Networks-and-Deep-Learning/notebooks/Deep_Neural_Network_Application.ipynb.ipynb)
+* Week 4 - 5 - [Deep Neural Network for Image Classification: Application](/Neural-Networks-and-Deep-Learning/notebooks/Deep_Neural_Network_Application.ipynb)
 
 ## Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
