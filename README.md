@@ -34,3 +34,14 @@ Here I gradually upload the lecture slides and my solution to the assignments of
 * Week 1 - 3 - [Gradient Checking](/Improving-Deep-Neural-Networks/notebooks/Gradient_Checking.ipynb)
 * Week 2 - 4 - [Optimization Methods](/Improving-Deep-Neural-Networks/notebooks/Optimization_methods.ipynb)
 * Week 3 - 5 - [TensorFlow Tutorial](/Improving-Deep-Neural-Networks/notebooks/Tensorflow_introduction.ipynb)
+
+## Course 4: Convolutional Neural Networks
+
+### Lecture slides
+
+* [Week 1](/Convolutional-Neural-Networks/slides/C4_W1.pdf)
+
+### Assignments
+
+* Week 1 - 1 - [Initialization](/Convolutional-Neural-Networks/Convolution_model_Step_by_Step_v1.ipynb)
+* Week 1 - 2 - [Regularization](/Convolutional-Neural-Networks/Convolution_model_Application.ipynb)
