@@ -43,5 +43,5 @@ Here I gradually upload the lecture slides and my solution to the assignments of
 
 ### Assignments
 
-* Week 1 - 1 - [Initialization](/Convolutional-Neural-Networks/Convolution_model_Step_by_Step_v1.ipynb)
-* Week 1 - 2 - [Regularization](/Convolutional-Neural-Networks/Convolution_model_Application.ipynb)
+* Week 1 - 1 - [Convolutional Model, Step by Step](/Convolutional-Neural-Networks/Convolution_model_Step_by_Step_v1.ipynb)
+* Week 1 - 2 - [Convolutional Model Application](/Convolutional-Neural-Networks/Convolution_model_Application.ipynb)
