@@ -40,6 +40,9 @@ Here I gradually upload the lecture slides and my solution to the assignments of
 ### Lecture slides
 
 * [Week 1](/Convolutional-Neural-Networks/slides/C4_W1.pdf)
+* [Week 1](/Convolutional-Neural-Networks/slides/C4_W2.pdf)
+* [Week 1](/Convolutional-Neural-Networks/slides/C4_W3.pdf)
+* [Week 1](/Convolutional-Neural-Networks/slides/C4_W4.pdf)
 
 ### Assignments
 
