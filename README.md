@@ -40,11 +40,17 @@ Here I gradually upload the lecture slides and my solution to the assignments of
 ### Lecture slides
 
 * [Week 1](/Convolutional-Neural-Networks/slides/C4_W1.pdf)
-* [Week 1](/Convolutional-Neural-Networks/slides/C4_W2.pdf)
-* [Week 1](/Convolutional-Neural-Networks/slides/C4_W3.pdf)
-* [Week 1](/Convolutional-Neural-Networks/slides/C4_W4.pdf)
+* [Week 2](/Convolutional-Neural-Networks/slides/C4_W2.pdf)
+* [Week 3](/Convolutional-Neural-Networks/slides/C4_W3.pdf)
+* [Week 4](/Convolutional-Neural-Networks/slides/C4_W4.pdf)
 
 ### Assignments
 
 * Week 1 - 1 - [Convolutional Model, Step by Step](/Convolutional-Neural-Networks/notebooks/Convolution_model_Step_by_Step_v1.ipynb)
 * Week 1 - 2 - [Convolutional Model Application](/Convolutional-Neural-Networks/notebooks/Convolution_model_Application.ipynb)
+* Week 2 - 1 - [Residual Networks](/Convolutional-Neural-Networks/notebooks/Residual_Networks.ipynb)
+* Week 2 - 2 - [Transfer Learning with MobileNet](/Convolutional-Neural-Networks/notebooks/Transfer_learning_with_MobileNet_v1.ipynb)
+* Week 3 - 1 - [Car detection with YOLO](/Convolutional-Neural-Networks/notebooks/Autonomous_driving_application_Car_detection.ipynb)
+* Week 3 - 2 - [Image Segmentation with U-Net](/Convolutional-Neural-Networks/notebooks/Image_segmentation_Unet_v2.ipynb)
+* Week 4 - 1 - [Face Recognition](/Convolutional-Neural-Networks/notebooks/Face_Recognition.ipynb)
+* Week 4 - 2 - [Art Generation with Neural Style Transfer](/Convolutional-Neural-Networks/notebooks/Art_Generation_with_Neural_Style_Transfer.ipynb)
