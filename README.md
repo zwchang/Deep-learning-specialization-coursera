@@ -1,6 +1,6 @@
 # Deep Learning Specialization (Coursera)
 
-Here I gradually upload the lecture slides and my solution to the assignments of [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?page=1) offered by DeepLearning.AI on Coursera for future references. I am happy if you find these materiasl useful but please do not directly copy my codes if you get stuck somewhere. Instead, check my code to clear your head and start over again.
+Here I gradually upload the lecture slides and my solution to the assignments of [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?page=1) offered by DeepLearning.AI on Coursera for future references. I am happy if you find these materiasl useful but please do not directly copy my codes if you get stuck. Instead, check my code to clear your head and start over again.
 
 ## Course 1: Neural Networks and Deep Learning
 
@@ -54,3 +54,23 @@ Here I gradually upload the lecture slides and my solution to the assignments of
 * Week 3 - 2 - [Image Segmentation with U-Net](/Convolutional-Neural-Networks/notebooks/Image_segmentation_Unet_v2.ipynb)
 * Week 4 - 1 - [Face Recognition](/Convolutional-Neural-Networks/notebooks/Face_Recognition.ipynb)
 * Week 4 - 2 - [Art Generation with Neural Style Transfer](/Convolutional-Neural-Networks/notebooks/Art_Generation_with_Neural_Style_Transfer.ipynb)
+
+## Course 5: Sequence Models
+
+### Lecture slides
+
+* [Week 1](/Sequence-Models/slides/C5_W1.pdf)
+* [Week 2](/Sequence-Models/slides/C5_W2.pdf)
+* [Week 3](/Sequence-Models/slides/C5_W3.pdf)
+* [Week 4](/Sequence-Models/slides/C5_W4.pdf)
+
+### Assignments
+
+* Week 1 - 1 - [Building a Recurrent Neural Network - Step by Step](/Sequence-Models/notebooks/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+* Week 1 - 2 - [Character level language model - Dinosaurus land](/Sequence-Models/notebooks/Dinosaurus_Island_Character_level_language_model.ipynb)
+* Week 1 - 3 - [Improvise A Jazz Solo with an LSTM Network](/Sequence-Models/notebooks/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+* Week 2 - 1 - [Operations on word vectors](/Sequence-Models/notebooks/Operations_on_word_vectors_v2a.ipynb)
+* Week 2 - 2 - [Emojify](/Sequence-Models/notebooks/Emoji_v3a.ipynb)
+* Week 3 - 1 - [Neural Machine Translation With Attention](/Sequence-Models/notebooks/Neural_machine_translation_with_attention_v4a.ipynb)
+* Week 3 - 2 - [Trigger Word Detection](/Sequence-Models/notebooks/Trigger_word_detection_v2a.ipynb)
+* Week 4 - 1 - [Transformers Architecture with TensorFlow](/Sequence-Models/notebooks/C5_W4_A1_Transformer_Subclass_v1.ipynb)
