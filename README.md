@@ -1,6 +1,6 @@
 # Deep Learning Specialization (Coursera)
 
-Here I gradually upload the lecture slides and my solution to the assignments of [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?page=1) offered by DeepLearning.AI on Coursera for future references. I am happy if you find these materiasl useful but please do not directly copy my codes if you get stuck. Instead, check my code to clear your head and start over again.
+Here are my solution to the assignments of [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?page=1) and lecture slides offered by DeepLearning.AI on Coursera. 
 
 ## Course 1: Neural Networks and Deep Learning
 
